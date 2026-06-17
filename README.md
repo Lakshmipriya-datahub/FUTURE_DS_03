@@ -76,7 +76,7 @@ An interactive Power BI dashboard was developed to present insights in a busines
 
 Dashboard Features:
 
-KPI Cards (Total Revenue, Total Profit, Total Quantity)
+KPI Cards (Total Customers, Total Revenue, Total Orders)
 
 Channel-wise Customers 
 
